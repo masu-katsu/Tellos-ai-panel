@@ -1,0 +1,7 @@
+{
+  "name": "TelloViewer.Runtime",
+  "references": [
+    "UnityEngine.UI"
+  ],
+  "autoReferenced": true
+}
